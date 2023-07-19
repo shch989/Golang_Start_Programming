@@ -11,7 +11,11 @@ https://go.dev/play/
 ```
 $ go env
 $ go version
-$ go help 
+$ go help
+```
+### Go 모듈 초기화
+```
+$ go mod init 모듈명
 ```
 ### Go 실행
 ```
