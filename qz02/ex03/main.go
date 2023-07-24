@@ -7,7 +7,7 @@ import "fmt"
 
 const (
 	a     = 42
-	b int = 43
+	b int = 44
 )
 
 func main() {
