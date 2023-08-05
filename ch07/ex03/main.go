@@ -31,6 +31,5 @@ func info(s shape) {
 
 func main() {
 	c := circle{5}
-	fmt.Printf("%T\n", &c)
 	info(&c)
 }
