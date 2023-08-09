@@ -15,7 +15,7 @@ func main() {
 		fmt.Println(err)
 	}
 	fmt.Println(s)
-	fmt.Println(bs)
+	fmt.Println(string(bs))
 
 	// 로그인 시도할 비밀번호
 	loginPword1 := `password123`
